@@ -1,4 +1,4 @@
-- ### Analyzing data with R
+### Analyzing data with R
 
 ### installing libs
 
